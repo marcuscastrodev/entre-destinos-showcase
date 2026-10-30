@@ -109,9 +109,51 @@ This project demonstrates work across:
 - Checkout and webhook integration
 - Testing, debugging, documentation, and deployment
 
-## Screenshots
+## Product gallery
 
-The [screenshot gallery](screenshots/README.md) is being prepared with reviewed public images. No administration screens, customer information, checkout credentials, or private product files will be published.
+### Public website and responsive experience
+
+**Homepage — desktop.** Editorial storytelling, prominent navigation, clear calls to action, and a modular layout.
+
+![Entre Destinos homepage on desktop](screenshots/01-home-desktop.webp)
+
+**Homepage — mobile.** The same content hierarchy adapted to a narrow viewport with responsive navigation.
+
+<img src="screenshots/02-home-mobile.webp" alt="Entre Destinos responsive mobile homepage" width="340" />
+
+**About page.** A personal content-driven page connecting the project's identity to its audience.
+
+![Entre Destinos about page](screenshots/06-about.webp)
+
+### Content and conversion journeys
+
+**Blog.** Article discovery with categories, search, featured content, and a complementary sidebar.
+
+![Entre Destinos blog](screenshots/03-blog.webp)
+
+**Home Finder.** A service landing page designed to explain the offering and guide visitors toward an assessment.
+
+![Entre Destinos Home Finder landing page](screenshots/04-home-finder.webp)
+
+**Remote Worker Kit.** A digital product checkout interface with offer details, customer fields, and a payment handoff.
+
+![Entre Destinos remote worker kit checkout interface](screenshots/05-remote-worker-kit.webp)
+
+### Editorial content management
+
+**Content collections.** The private CMS groups articles, editable pages, navigation, and SEO settings.
+
+![Entre Destinos CMS collections](screenshots/07-cms-content.webp)
+
+**Editorial workflow.** Draft, review, and approved-for-publication stages provide a structured publishing process.
+
+![Entre Destinos editorial workflow](screenshots/08-cms-editorial-workflow.webp)
+
+**Article editor and preview.** A split editing experience provides content fields alongside a visual article preview.
+
+![Entre Destinos article editor with live preview](screenshots/09-cms-article-editor.webp)
+
+These screenshots document interfaces only. CMS access, publishing permissions, credentials, and operational source remain private.
 
 ## Repository boundaries
 
