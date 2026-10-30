@@ -109,9 +109,51 @@ O projeto demonstra trabalho em:
 - Integração de checkout e webhooks
 - Testes, investigação de problemas, documentação e publicação
 
-## Screenshots
+## Galeria do produto
 
-A [galeria de imagens](screenshots/README.md) será publicada com capturas revisadas. Telas administrativas, informações de clientes, credenciais de checkout e arquivos privados do produto não serão incluídos.
+### Site público e experiência responsiva
+
+**Página inicial — desktop.** Storytelling editorial, navegação clara, chamadas para ação e estrutura modular.
+
+![Página inicial do Entre Destinos no desktop](screenshots/01-home-desktop.webp)
+
+**Página inicial — mobile.** A hierarquia de informações adaptada à tela do celular, com navegação responsiva.
+
+<img src="screenshots/02-home-mobile.webp" alt="Página inicial responsiva do Entre Destinos no celular" width="340" />
+
+**Sobre nós.** Página editorial que conecta a história do projeto às necessidades do público.
+
+![Página Sobre nós do Entre Destinos](screenshots/06-about.webp)
+
+### Conteúdo e jornadas de conversão
+
+**Blog.** Descoberta de artigos com categorias, busca, conteúdo em destaque e barra lateral complementar.
+
+![Blog do Entre Destinos](screenshots/03-blog.webp)
+
+**Home Finder.** Landing page que apresenta o serviço e conduz à solicitação de análise.
+
+![Landing page Home Finder](screenshots/04-home-finder.webp)
+
+**Kit Trabalhador Remoto.** Interface comercial com detalhes da oferta, campos de identificação e encaminhamento ao pagamento.
+
+![Interface de compra do Kit Trabalhador Remoto](screenshots/05-remote-worker-kit.webp)
+
+### Gerenciamento editorial
+
+**Coleções de conteúdo.** O CMS privado organiza artigos, páginas editáveis, navegação e configurações de SEO.
+
+![Coleções de conteúdo no CMS do Entre Destinos](screenshots/07-cms-content.webp)
+
+**Fluxo editorial.** Etapas de rascunho, revisão e aprovação que estruturam a publicação.
+
+![Fluxo editorial do Entre Destinos](screenshots/08-cms-editorial-workflow.webp)
+
+**Editor com pré-visualização.** Campos de edição e visualização do artigo lado a lado.
+
+![Editor de artigos com pré-visualização](screenshots/09-cms-article-editor.webp)
+
+As capturas documentam apenas as interfaces. O acesso ao CMS, as permissões, as credenciais e o código operacional permanecem privados.
 
 ## Limites desta vitrine
 
