@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇺🇸 English](./README.md) · **🇧🇷 Português**
+[🇺🇸 English](./README.md) · **🇧🇷 Português** · [🇪🇸 Español](./README.es.md)
 
 # Entre Destinos
 
